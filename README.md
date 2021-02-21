@@ -9,10 +9,10 @@ Auto-Link Clicker is open source program for clicking links automatically in bro
 # How to Build:
 To Build and Run this project you need following libraries:
 
-**   Python v3.8 or Higher.
-**   Selenium v3.1 or Higher
-**   ChromeWebDrivers (According to version of browser you've installed! e.g i am using version 87.0.4280.87 etc)
-**   PyInstaller Latest.
+*  Python v3.8 or Higher.
+*  Selenium v3.1 or Higher
+*  ChromeWebDrivers (According to version of browser you've installed! e.g i am using version 87.0.4280.87 etc)
+*  PyInstaller Latest.
 
 
 **   For PyInstaller:
